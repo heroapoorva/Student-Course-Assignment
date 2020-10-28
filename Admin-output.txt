@@ -1,0 +1,100 @@
+The overall cost for students i.e. the sums of ranks of courses they are assigned
+1303
+Profile of the students i.e. Number of people who got their ith choice
+299,228,132,129,16,21,23,13,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The average cost for each type of student i.e. the sums of ranks of courses they are assigned
+3rd year Single,3rd year Joint,4th year Single,4th year Joint
+2.5078125,1.50837988827,3.3993902439,1.38613861386
+Student type-wise profile i.e. Number of people who got their ith choice
+3rd year Single
+64,64,63,64,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3rd year Joint
+89,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4th year Single
+67,61,64,63,15,20,22,13,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4th year Joint
+79,14,4,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minimum attendance,Courses
+0,ENGLIT4090,ENGLIT4115,ENGLIT4116
+Maximum Attendance,Courses
+85,ENGLIT4088
+
+
+The following course constraints were violated:-
+Course quota exceeded for course ENGLIT4051
+Course quota exceeded for course ENGLIT4103
+Course quota exceeded for course ENGLIT4119
+
+
+The following Student constraints were violated:-
+For Student 2038663 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2062401 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2067764 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2079402 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2087619 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2116419 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2119361 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2126612 the following constraints were violated:-
+4th year Single student took too many courses with Dissertation both in semester 1
+
+For Student 2127121 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2127531 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2127553 the following constraints were violated:-
+4th year Single student took too many courses with Dissertation both in semester 1
+
+For Student 2135129 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2136333 the following constraints were violated:-
+4th year Single student took too many courses with Dissertation both in semester 1
+
+For Student 2136979 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2138927 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2142610 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2167736 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2167773 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2167939 the following constraints were violated:-
+Not enough pre-1800s courses assigned
+
+For Student 2185317 the following constraints were violated:-
+Not enough courses assigned 
+
+For Student 2190587 the following constraints were violated:-
+Not enough courses assigned 
+
+For Student 2197443 the following constraints were violated:-
+Not enough courses assigned 
+
+For Student 2198972 the following constraints were violated:-
+Not enough courses assigned 
+
+For Student 2206312 the following constraints were violated:-
+Not enough courses assigned 
